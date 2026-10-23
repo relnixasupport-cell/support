@@ -8,7 +8,7 @@ export type FeedbackPayload = {
   platform: string;
   subject: string;
   message: string;
-  source: 'relnexia-support-web';
+  source: 'relnixa-support-web';
   sentAt: string;
 };
 
@@ -20,7 +20,7 @@ export async function submitFeedback(body: BodyType): Promise<FeedbackPayload> {
     platform: String(body.platform ?? ''),
     subject: String(body.subject ?? ''),
     message: String(body.message ?? ''),
-    source: 'relnexia-support-web',
+    source: 'relnixa-support-web',
     sentAt: new Date().toISOString(),
   };
 

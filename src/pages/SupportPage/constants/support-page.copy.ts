@@ -1,18 +1,18 @@
-/** Copy aligned with Relnexia Privacy Policy (September 24, 2026). */
+/** Copy aligned with Relnixa Privacy Policy (September 24, 2026). */
 export const PRIVACY_POLICY_URL =
   'https://docs.google.com/document/d/e/2PACX-1vT1RlhsAbNrmUGfrQRP5MP6iD_ufXG-x3gjzcNbR5mxLFfJvicM9rlXvdSZbV55M0AdQPJ6ow2rq-48/pub';
 
 export const SUPPORT_SITE_URL = 'https://relnixasupport-cell.github.io/support/';
 
-export const COMPANY_NAME = 'Relnexia';
+export const COMPANY_NAME = 'Relnixa';
 
 export const PRIVACY_LAST_UPDATED = 'September 24, 2026';
 
 export const supportPageCopy = {
-  badge: 'Relnexia · Support',
-  title: 'Support for the Relnexia mobile application',
+  badge: 'Relnixa · Support',
+  title: 'Support for the Relnixa mobile application',
   lead:
-    'Relnexia is a Learn Hub for trading education. Study topic guides in the app, take short tests to earn points, and unlock avatars as you progress. Use this page to contact Us about the Service — including learning content, tests, your Account, or technical issues.',
+    'Relnixa is a Learn Hub for trading education. Study topic guides in the app, take short tests to earn points, and unlock avatars as you progress. Use this page to contact Us about the Service — including learning content, tests, your Account, or technical issues.',
   features: [
     'Topic guides and short tests',
     'Points, progress, and avatar unlocks',
